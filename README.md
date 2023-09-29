@@ -27,7 +27,7 @@
 ### [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/):
 |**Aplicaciones** | **Visto**|
 |------------ | -------------|
-|Google Docs | Sí|
+|Google Docs | ![tick](https://raw.githubusercontent.com/LotsV8pro/MX2-M8UF1A2_AlbertRomero/main/Tick.png "tick")|
 |Google Slides 2** | Sí|
 |Google Sheets 3** | No|
 |Google Calendar 4** | Sí|
@@ -47,3 +47,5 @@
 <span style="color:red">CSS (Cascading Style Sheets) es un lenguaje utilizado para definir el estilo y la presentación de una página web creada con HTML. Permite controlar aspectos como el diseño, el formato, los colores y la disposición de los elementos en una página, lo que facilita la personalización y la estética del sitio web.</span>
 
 ### Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+![Flujo trabajo](https://raw.githubusercontent.com/LotsV8pro/MX2-M8UF1A2_AlbertRomero/main/Flujo%20trabajo.png "imagen flujo trabajo")
