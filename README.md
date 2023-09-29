@@ -25,14 +25,14 @@
 <span style="color:red">Una herramienta ofimática es un software diseñado para realizar tareas relacionadas con la oficina, como la creación, edición y gestión de documentos, hojas de cálculo, presentaciones y otros tipos de archivos utilizados en entornos de trabajo. Ejemplos de herramientas ofimáticas incluyen Microsoft Office, Google Workspace y LibreOffice.</span>
 
 ### [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/):
-### Aplicaciones | Visto
------------- | -------------
-**Google Docs** | **Sí**
-**Google Slides 2** | **Sí**
-**Google Sheets 3** | **No**
-**Google Calendar 4** | **Sí**
-**Goggle Meet 5** | **No**
-**... 6** | **...**
+|**Aplicaciones** | **Visto**|
+|------------ | -------------|
+|Google Docs | Sí|
+|Google Slides 2** | Sí|
+|Google Sheets 3** | No|
+|Google Calendar 4** | Sí|
+|Goggle Meet 5** | No|
+|... | ...|
 
 ### ¿Qué es HTML?
 
