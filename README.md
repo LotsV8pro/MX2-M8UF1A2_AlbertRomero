@@ -38,6 +38,9 @@
 
 **Respuesta:** 
 
+
+<span style="color:red">HTML (HyperText Markup Language) es el lenguaje de marcado utilizado para crear y estructurar contenido en una página web. Con HTML, se pueden definir elementos como encabezados, párrafos, listas, enlaces e imágenes, permitiendo así la presentación y organización de la información en una página web.</span>
+
 ```
 <!DOCTYPE html>
 
@@ -56,7 +59,6 @@
 </html>
 ```
 
-<span style="color:red">HTML (HyperText Markup Language) es el lenguaje de marcado utilizado para crear y estructurar contenido en una página web. Con HTML, se pueden definir elementos como encabezados, párrafos, listas, enlaces e imágenes, permitiendo así la presentación y organización de la información en una página web.</span>
 
 ### ¿Qué es CSS?
 
