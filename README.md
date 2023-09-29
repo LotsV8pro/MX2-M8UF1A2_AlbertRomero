@@ -28,10 +28,10 @@
 |**Aplicaciones** | **Visto**|
 |------------ | -------------|
 |Google Docs | ![tick](https://raw.githubusercontent.com/LotsV8pro/MX2-M8UF1A2_AlbertRomero/main/Tick.png "tick")|
-|Google Slides 2 | ![tick](https://raw.githubusercontent.com/LotsV8pro/MX2-M8UF1A2_AlbertRomero/main/Tick.png "tick")|
-|Google Sheets 3 | ![tick](https://raw.githubusercontent.com/LotsV8pro/MX2-M8UF1A2_AlbertRomero/main/Tick.png "tick")|
-|Google Calendar 4 | ![Calendar](https://raw.githubusercontent.com/LotsV8pro/MX2-M8UF1A2_AlbertRomero/main/Calendar.png "Calendar")|
-|Goggle Meet 5 | ![Laptop](https://raw.githubusercontent.com/LotsV8pro/MX2-M8UF1A2_AlbertRomero/main/Laptop.png "Laptop")|
+|Google Slides | ![tick](https://raw.githubusercontent.com/LotsV8pro/MX2-M8UF1A2_AlbertRomero/main/Tick.png "tick")|
+|Google Sheets | ![tick](https://raw.githubusercontent.com/LotsV8pro/MX2-M8UF1A2_AlbertRomero/main/Tick.png "tick")|
+|Google Calendar | ![Calendar](https://raw.githubusercontent.com/LotsV8pro/MX2-M8UF1A2_AlbertRomero/main/Calendar.png "Calendar")|
+|Goggle Meet | ![Laptop](https://raw.githubusercontent.com/LotsV8pro/MX2-M8UF1A2_AlbertRomero/main/Laptop.png "Laptop")|
 |... | ...|
 
 ### ¿Qué es HTML?
